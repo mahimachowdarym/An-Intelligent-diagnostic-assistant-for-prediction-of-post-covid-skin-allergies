@@ -1,3 +1,4 @@
+[An-Intelligent-diagnostic-assistant-for-prediction-of-post-covid-skin-allergies](https://ijpsr.com/bft-article/an-intelligent-assistant-for-prediction-post-covid-skin-allergies-diagnosis/)
 
 __Decision Trees__:
 
@@ -27,4 +28,3 @@ Ensemble methods leverage the diversity of base models to improve classification
 
 In summary, while individual classifiers such as Decision Trees, Logistic Regression, SVM, and KNN demonstrated modest performance, ensemble methods emerged as the most effective approach for diagnosing post-COVID-19 skin allergies. Ensemble techniques, particularly Gradient Boosting and XGBoost, achieved higher accuracies and demonstrated robustness in classification tasks. These results highlight the importance of leveraging ensemble methods to improve diagnostic accuracy and reliability in clinical settings. Further research and optimization of these models are warranted to enhance their performance and applicability in real-world scenarios.
 
-[An-Intelligent-diagnostic-assistant-for-prediction-of-post-covid-skin-allergies](https://ijpsr.com/bft-article/an-intelligent-assistant-for-prediction-post-covid-skin-allergies-diagnosis/)
